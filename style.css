@@ -16,7 +16,11 @@ main{
 }
 
 .cabecalho{
-    color:white;
+    color:green;
     padding: 15px 25px;
-    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFFF00;
 }
+
